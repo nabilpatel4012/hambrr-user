@@ -1,0 +1,6 @@
+{
+  "name": "GenZ Eats",
+  "description": "Vibrant and playful mobile ordering platform made for Gen-Z food cravings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
